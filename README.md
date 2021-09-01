@@ -37,9 +37,9 @@
 <br />
 <br />
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelchrisdian&show_icons=true&icon)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelchrisdian&count_private=true&show_icons=true&icon)
 
-[![Samuel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelchrisdian)](https://github.com/anuraghazra/github-readme-stats)
+[![Samuel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelchrisdian&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
