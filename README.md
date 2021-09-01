@@ -39,9 +39,6 @@
 
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelchrisdian&show_icons=true&icon)
 
-<br />
-<br />
-
 [![Samuel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelchrisdian)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
