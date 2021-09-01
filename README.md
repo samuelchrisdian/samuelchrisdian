@@ -42,6 +42,11 @@
 <br />
 <br />
 
+[![Samuel's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelchrisdian)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
+
 [website]: https://tsamdev.com
 [course]: http://vsCodeHero.com
 [youtube]: https://www.youtube.com/channel/UC27SdyZVIKexytPTXhXa_kg
