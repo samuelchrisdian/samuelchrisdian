@@ -6,7 +6,7 @@
 ## I'm a Web Developer!!
 
 - 🔭 I am now Open to contribute to Any Open Source Project!
-- 🌱 I’m currently learning everything !!
+- 🌱 I’m currently learning MERN !!
 - 🥅 2021 Goals: More Connection and More Knowledge
 
 ### Connect with me:
